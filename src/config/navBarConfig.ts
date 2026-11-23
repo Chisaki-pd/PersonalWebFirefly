@@ -111,7 +111,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
+				url: "https://gitee.com/List_chisaki",
 				external: true,
 				icon: "fa7-brands:gitee",
 			},

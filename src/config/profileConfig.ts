@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "-List-",
 
 	// 个人签名
-	bio: "逸一时，误一世，逸久逸久罢已零（悲）。",
+	bio: "逸一时，误一世，逸久逸久罢已零（悲）",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -30,7 +30,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "2479561569@qq.com",
+			url: "mailto:2479561569@qq.com",
 			showName: false,
 		},
 		{

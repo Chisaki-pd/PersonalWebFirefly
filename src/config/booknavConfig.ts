@@ -129,6 +129,18 @@ export const booknavConfig: BooknavGroup[] = [
 				desc: "把代码片段生成漂亮的图片",
 				weight: 8,
 			},
+			{
+				title: "时间戳转换工具",
+				url: "https://tool.lu/timestamp/",
+				desc: "好用的时间戳获取网站",
+				weight: 8,
+			},
+			{
+				title: "AI字体识别工具",
+				url: "https://tugaigai.com/FontFinder/",
+				desc: "识别图中的文字内容，并寻找可替代的字体",
+				weight: 8,
+			},
 		],
 	},
 	{
@@ -145,12 +157,12 @@ export const booknavConfig: BooknavGroup[] = [
 				icon: "https://docs-firefly.cuteleaf.cn/logo.png",
 				weight: 10,
 			},
-			{
+			/*{
 				title: "夏夜流萤",
 				url: "https://blog.cuteleaf.cn",
 				desc: "飞萤之火自无梦的长夜亮起",
 				weight: 9,
-			},
+			},*/
 		],
 	},
 ];
